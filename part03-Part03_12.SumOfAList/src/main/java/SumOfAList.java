@@ -25,6 +25,6 @@ public class SumOfAList {
             sum += number;
         }
         System.out.print("Sum: " + sum);
-        f
+        
     }
 }

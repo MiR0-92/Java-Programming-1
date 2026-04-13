@@ -24,7 +24,6 @@ public class UserInterface {
             } else if (userInput.equals("remove")) {
                 remove();
             }
-
         }
     }
 
